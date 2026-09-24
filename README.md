@@ -4,6 +4,10 @@ A modern color palette generator that creates harmonious color schemes based on 
 
 The project uses The Color API to dynamically generate and display five-color palettes.
 
+## 🚀 Live Demo
+
+👉 [View Live Demo](https://palette-generator-tc.netlify.app/)
+
 ## ✨ Features
 
 - Choose a seed color using a color picker
@@ -60,13 +64,6 @@ fetch(`https://www.thecolorapi.com/scheme?hex=${selectedColor}&mode=${selectedMo
 
 The selected color and scheme mode are passed to the API as query parameters.
 
-## 📸 Preview
-
-![Color Palette Generator Preview](screenshot.png)
-
-## 🚀 Live Demo
-
-Live demo coming soon.
 
 ## 📁 Project Structure
 
